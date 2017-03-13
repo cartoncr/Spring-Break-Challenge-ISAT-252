@@ -6,3 +6,6 @@ phrase = phrase.replace(/[^\w\s]|_/g, "");
 phrase = phrase.replace(/\s+/g, '');
 //make phrase lowercase
 phrase = phrase.toLowerCase();
+
+//count string length as new variable 'stringLength'
+stringLength = phrase.length;
