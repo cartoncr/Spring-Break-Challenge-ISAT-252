@@ -9,3 +9,5 @@ phrase = phrase.toLowerCase();
 
 //count string length as new variable 'stringLength'
 stringLength = phrase.length;
+//Round square root of 'stringLength' to nearest whole number
+Math.round(Math.sqrt(stringLength));
