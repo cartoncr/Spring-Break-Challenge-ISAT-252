@@ -1,7 +1,7 @@
 //"We must let go of the life we have planned, so as to accept the one that is waiting for us."
 var phrase = window.prompt("Type out the phrase you wish to encrypt:");
 if (phrase === "") {
-	console.log("Your phrase was empty. Please enter a valid phrase.")
+	console.log("Your phrase was empty. Please enter a valid phrase.");
 } else {
 	//remove punctuation from phrase
 	phrase = phrase.replace(/[^\w\s]|_/g, '');
