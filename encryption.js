@@ -19,8 +19,5 @@ if (phrase === "") {
 	console.log(phraseArray);
 /*
 	var newPhrase = //create square table of characters using 'sqrt' value for number of theoretical columns/rows
-
-	//slice up 'newPhrase' variable and output encrypted phrase words separated by spaces.
-	console.log(phrase.slice(0, sqrt),phrase.slice(sqrt, sqrt*2),phrase.slice(sqrt*2, sqrt*3),phrase.slice(sqrt*3, sqrt*4),phrase.slice(sqrt*4, sqrt*5),phrase.slice(sqrt*5, sqrt*6),phrase.slice(sqrt*6, sqrt*7),phrase.slice(sqrt*8, sqrt*9),phrase.slice(sqrt*9, sqrt*10),phrase.slice(sqrt*10, sqrt*11),phrase.slice(sqrt*11, sqrt*12));
 */
 }
